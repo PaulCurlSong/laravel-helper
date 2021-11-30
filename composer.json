@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MingYu\\LaravelHelper\\Providers\\HBaseProvider"
+                "Mingyu\\LaravelHelper\\Providers\\HBaseProvider"
             ]
         }
     }
