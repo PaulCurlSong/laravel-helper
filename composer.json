@@ -20,5 +20,12 @@
     "minimum-stability": "stable",
     "require": {
         "fatrbaby/hellobase": "^1.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MingYu\\LaravelHelper\\Providers\\HBaseProvider"
+            ],
+        }
     }
 }
