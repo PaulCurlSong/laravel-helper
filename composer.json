@@ -1,0 +1,21 @@
+{
+    "name": "mingyu/laravel-helper",
+    "description": "laravel helper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mingyu\\LaravelHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MingYu",
+            "email": "384971424@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fatrbaby/hellobase": "^1.0"
+    }
+}
