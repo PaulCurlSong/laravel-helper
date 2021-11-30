@@ -1,5 +1,5 @@
 <?php 
-namespace MingYu\LaravelHelper\Services;
+namespace Mingyu\LaravelHelper\Services;
 
 use HelloBase\Putter as HelloBasePutter;
 use HelloBase\Table as HelloBaseTable;
